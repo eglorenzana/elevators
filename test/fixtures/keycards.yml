@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  all: false
+  floors: 1
+
+two:
+  all: false
+  floors: 1
